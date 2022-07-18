@@ -1,0 +1,25 @@
+span {
+  color: #808080;
+}
+
+.numero {
+  color: #4c84cc;
+}
+.variable {
+  color: #36c936;
+}
+.operador {
+  color: #dda0dd;
+}
+.comentario {
+  color: #cd853f;
+}
+.reservada {
+  color: #24c6db;
+}
+.include {
+  color: #d87093;
+}
+.iostream {
+  color: #9a3ef5;
+}
